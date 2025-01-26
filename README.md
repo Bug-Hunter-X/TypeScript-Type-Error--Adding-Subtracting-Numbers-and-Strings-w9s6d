@@ -1,0 +1,3 @@
+# TypeScript Type Error: Adding/Subtracting Numbers and Strings
+
+This repository demonstrates a common type error in TypeScript when performing arithmetic operations on numbers and strings.  The error is correctly caught by the type system, however the error message can be improved for better developer experience.  The `bug.ts` file contains the buggy code, while `bugSolution.ts` shows one approach to prevent this error.
